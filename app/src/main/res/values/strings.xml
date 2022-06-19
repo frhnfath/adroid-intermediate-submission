@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="logo">logo</string>
+    <string name="username_hint">Enter Username</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="password_hint">Enter Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="_6_characters_minimum">6 Characters Minimum</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="ask_account">Don\'t have an account yet? Register Here</string>
+    <string name="ask_sign">Already have an account? Sign in here</string>
+    <string name="error_password">Password Must Contain at least 6 Characters</string>
+    <string name="email">Email</string>
+    <string name="insert_email">Insert Email</string>
+    <string name="github">github.com/frhnfath</string>
+    <string name="add_story">Add Story</string>
+    <string name="write_your_story">Write your story</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="send_story">Send Story</string>
+    <string name="logout">Logout</string>
+    <string name="submit">Submit</string>
+    <string name="stories">Stories</string>
+    <string name="description">Description</string>
+    <string name="story_s_detail">Story\'s Detail</string>
+</resources>

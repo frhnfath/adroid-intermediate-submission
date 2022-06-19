@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/drawable/bg_button.xml" value="0.2815" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/drawable/bg_button_disable.xml" value="0.2815" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/drawable/ic_logout_24.xml" value="0.1515" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/layout/activity_add_story.xml" value="0.2758152173913043" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/layout/activity_camera.xml" value="0.18385416666666668" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/layout/activity_detail.xml" value="0.182518115942029" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/layout/activity_login.xml" value="0.3609375" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/layout/activity_register.xml" value="0.3609375" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/layout/activity_splashscreen.xml" value="0.17553191489361702" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/layout/story_item.xml" value="0.24864130434782608" />
+        <entry key="..\:/Users/LENOVO/Documents/latihan/android/StoryAppFix/app/src/main/res/menu/option_menu.xml" value="0.3609375" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_13" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
