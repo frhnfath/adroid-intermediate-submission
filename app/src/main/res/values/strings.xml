@@ -25,4 +25,11 @@
     <string name="stories">Stories</string>
     <string name="description">Description</string>
     <string name="story_s_detail">Story\'s Detail</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="maps">maps</string>
+    <string name="normal_type">Normal Type</string>
+    <string name="satellite_type">Satellite Type</string>
+    <string name="terrain_type">Terrain Type</string>
+    <string name="hybrid_type">Hybrid Type</string>
+    <string name="retry">Retry</string>
 </resources>

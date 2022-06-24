@@ -7,6 +7,7 @@ import retrofit2.Retrofit
 import retrofit2.converter.gson.GsonConverterFactory
 
 class ApiConfig {
+    // initiate api calling using retrofit
     companion object {
         fun getApiService(): ApiService {
             val loggingInterceptor = if (BuildConfig.DEBUG) {

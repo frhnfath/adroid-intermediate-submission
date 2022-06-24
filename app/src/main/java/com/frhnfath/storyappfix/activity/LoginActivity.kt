@@ -52,6 +52,7 @@ class LoginActivity : AppCompatActivity() {
         binding.registerButton.setOnClickListener {
             val intent = Intent(this, RegisterActivity::class.java)
             startActivity(intent)
+            Log.d("Login", "onCreate: working")
             finish()
         }
     }
